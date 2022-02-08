@@ -56,7 +56,7 @@ console.log( 'Números ímpares entre 10 e 20:' );
 var number = 10;
 while (number < 20) {
 	number % 2 !== 0 ? console.log(number) : '';
-	number++
+	number++;
 }
 
 
@@ -69,7 +69,7 @@ Só vamos mudar o range:
 console.log( 'Números pares entre 100 e 120:' );
 
 for (let evenNumber = 100; evenNumber <= 120 ; evenNumber++) {
-	evenNumber % 2 == 0 ? console.log(evenNumber) : ''
+	evenNumber % 2 == 0 ? console.log(evenNumber) : '';
 };
 
 console.log( 'Números ímpares entre 111 e 125:' );
