@@ -76,6 +76,6 @@ console.log( 'Números ímpares entre 111 e 125:' );
 // Aqui farei com if para poder mostrar outra opção de solução.
 for (let oddNumber = 111; oddNumber <= 125 ; oddNumber++) {
 	if (oddNumber % 2 !== 0) {
-	console.log(oddNumber); 
+	console.log(oddNumber);
 	}
 };
