@@ -46,7 +46,7 @@ console.log( 'Números pares entre 10 e 20:' );
 var number = 10;
 while (number <= 20) {
 	number % 2 === 0 ? console.log(number) : '';
-	number++
+	number++;
 }
 
 /*
